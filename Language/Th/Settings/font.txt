@@ -1,1 +1,1 @@
-NotoSansThai-Regular.ttf
+NotoSansThai-VariableFont_wdth,wght.
