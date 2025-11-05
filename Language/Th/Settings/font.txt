@@ -1,1 +1,1 @@
-NotoSansThai-VariableFont_wdth,wght
+NotoSansThaiLooped-VariableFont_wdth,wght
